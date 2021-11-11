@@ -1,0 +1,11 @@
+ResolutionUnit           : 2
+ExifOffset               : 348
+Make                     : Canon
+Model                    : Canon EOS 550D
+YResolution              : 72.0
+Orientation              : 1
+DateTime                 : 2020:09:19 16:46:16
+YCbCrPositioning         : 2
+Copyright                : 
+XResolution              : 72.0
+Artist                   : 

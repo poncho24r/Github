@@ -1,0 +1,14 @@
+ResolutionUnit           : 2
+ExifOffset               : 294
+ImageDescription         : Tre Penne Vs Dinamo Batunmi
+PhÂ©FPF/Filippo Pruccoli
+Make                     : NIKON CORPORATION
+Model                    : NIKON D500
+Software                 : Adobe Photoshop Lightroom Classic 10.3 (Macintosh)
+Orientation              : 1
+DateTime                 : 2021:07:08 21:36:00
+YResolution              : 300.0
+Copyright                : PhÂ©FPF/Filippo Pruccoli
+
+XResolution              : 300.0
+Artist                   : Pruccoli

@@ -1,0 +1,5 @@
+ResolutionUnit           : 2
+ExifOffset               : 110
+DateTime                 : 2020:09:17 00:02:43
+XResolution              : 200.0
+YResolution              : 200.0

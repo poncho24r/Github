@@ -1,0 +1,7 @@
+ResolutionUnit           : 2
+ExifOffset               : 168
+Software                 : Adobe Photoshop CC 2015 (Windows)
+Orientation              : 1
+DateTime                 : 2016:10:21 18:10:24
+XResolution              : 100.0
+YResolution              : 100.0

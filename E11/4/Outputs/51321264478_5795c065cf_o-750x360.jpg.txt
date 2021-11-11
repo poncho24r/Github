@@ -1,0 +1,16 @@
+ImageWidth               : 4176
+ImageLength              : 2784
+BitsPerSample            : (8, 8, 8)
+GPSInfo                  : 1068
+PhotometricInterpretation: 2
+ResolutionUnit           : 2
+ExifOffset               : 308
+Make                     : NIKON CORPORATION
+Model                    : NIKON D5
+Software                 : Adobe Photoshop 21.0 (Macintosh)
+Orientation              : 1
+YCbCrPositioning         : 2
+DateTime                 : 2021:07:17 15:30:54
+SamplesPerPixel          : 3
+XResolution              : 300.0
+YResolution              : 300.0

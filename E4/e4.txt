@@ -1,0 +1,7 @@
+Linux
+Node with IP: 192.168.1.94 is up.
+Node with IP: 192.168.1.70 is up.
+Node with IP: 192.168.1.197 is up.
+Node with IP: 192.168.1.180 is up.
+Node with IP: 192.168.1.254 is up.
+22 open

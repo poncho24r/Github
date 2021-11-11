@@ -1,0 +1,4 @@
+ResolutionUnit           : 3
+Software                 : paint.net 4.2.4
+XResolution              : 38.0
+YResolution              : 38.0
